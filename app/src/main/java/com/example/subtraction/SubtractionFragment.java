@@ -42,6 +42,7 @@ public class SubtractionFragment extends Fragment {
             btnSubtract.setOnClickListener(new View.OnClickListener() {
 
                 public void onClick(View v) {
+
                     /**
                      * Modified by F. Derek Roman on 4/15/2017.
                      */
