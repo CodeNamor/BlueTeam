@@ -1,7 +1,0 @@
-#Thu Apr 13 00:03:33 CDT 2017
-base.0=C\:\\Users\\derek_000\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b25e7f29fb41f3fbee0002195b153294981163f2
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\derek_000\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c790abeb76e9b33bafa16631b9a235f2f5dd4cf7\\classes.dex
-base.1=C\:\\Users\\derek_000\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c790abeb76e9b33bafa16631b9a235f2f5dd4cf7
-file.0=C\:\\Users\\derek_000\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b25e7f29fb41f3fbee0002195b153294981163f2\\classes.dex

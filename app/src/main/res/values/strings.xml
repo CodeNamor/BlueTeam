@@ -6,6 +6,7 @@
     <string name="add">Add</string>
     <string name="multiply">multiply</string>
     <string name="divide">Divide</string>
+    <string name="sub">Subtract</string>
     <string name="number_one">Number One</string>
     <string name="number_two">Number Two</string>
     <string name="text_calculator">Calculator</string>

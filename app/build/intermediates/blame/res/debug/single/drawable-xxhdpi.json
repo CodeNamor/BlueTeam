@@ -1,147 +1,19 @@
 [
     {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\drawer_shadow.9.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_shadow.9.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_black_24dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_white_24dp.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_white_24dp.png"
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_white_24dp.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_black_36dp.png",
         "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_white_24dp.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_white_24dp.png"
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_white_24dp.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_black_48dp.png",
         "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_black_48dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_black_48dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_black_18dp.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_black_18dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_black_48dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_black_48dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_black_36dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_black_36dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_white_18dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_white_18dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_black_24dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_black_24dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_white_36dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_white_36dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_black_24dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_white_48dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_48dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_black_48dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_black_48dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_white_18dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_white_18dp.png"
-    },
-    {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_white_36dp.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_white_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_black_18dp.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_black_18dp.png"
-    },
-    {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_white_18dp.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_18dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_white_48dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_white_48dp.png"
-    },
-    {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_white_48dp.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_white_48dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_white_48dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_white_48dp.png"
-    },
-    {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_black_36dp.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_black_36dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_white_24dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_24dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_white_36dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_white_36dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_black_24dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_white_36dp.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_black_24dp.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_white_18dp.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_white_18dp.png"
-    },
-    {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_black_24dp.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_black_24dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_white_18dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_white_18dp.png"
-    },
-    {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_black_48dp.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_black_48dp.png",
-        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_black_48dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_black_18dp.png",
@@ -152,16 +24,8 @@
         "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_white_36dp.png"
     },
     {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_drawer.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_black_36dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_black_36dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_black_18dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_black_18dp.png"
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_black_18dp.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_black_18dp.png"
     },
     {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_black_24dp.png",
@@ -172,36 +36,12 @@
         "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_white_36dp.png"
     },
     {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_black_36dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_black_36dp.png"
-    },
-    {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\drawer_shadow.9.png",
         "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_shadow.9.png"
     },
     {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_black_18dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_black_18dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_white_24dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_white_24dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_black_36dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_black_36dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_white_36dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_36dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_black_48dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_black_48dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_black_18dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_black_18dp.png"
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_white_18dp.png",
@@ -210,10 +50,6 @@
     {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_white_18dp.png",
         "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_white_18dp.png"
-    },
-    {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_white_24dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_black_18dp.png",
@@ -232,48 +68,72 @@
         "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_24dp.png"
     },
     {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_white_36dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_white_36dp.png"
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_white_36dp.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_black_18dp.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_white_18dp.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_18dp.png"
     },
     {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_white_24dp.png",
         "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_white_24dp.png"
     },
     {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_white_48dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_white_48dp.png"
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_white_48dp.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_black_36dp.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_drawer.png",
         "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
     },
     {
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_white_36dp.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_black_24dp.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_white_18dp.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_white_18dp.png"
+    },
+    {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_outline_black_48dp.png",
         "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_outline_black_48dp.png"
     },
     {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_white_18dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_18dp.png"
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_black_24dp.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_white_48dp.png",
         "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_white_48dp.png"
     },
     {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_white_24dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_white_24dp.png"
-    },
-    {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_white_48dp.png",
         "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_48dp.png"
     },
     {
-        "merged": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_black_18dp.png",
-        "source": "D:\\MobileApplicationDEV\\AndroidAdditionApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_black_18dp.png"
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_box_black_48dp.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_box_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_white_48dp.png",
         "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_black_48dp.png",
+        "source": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\derek\\Desktop\\School\\CIS 622\\BlueTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_circle_black_36dp.png",
