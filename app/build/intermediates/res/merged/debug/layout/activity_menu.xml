@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="2"
+    android:alignmentMode="alignMargins"
+    >
+    <Button
+        android:text="@string/text_Addition"
+        android:id="@+id/additionButton"
+        android:drawableLeft="@drawable/ic_plus"
+        android:layout_gravity="fill_horizontal"
+        android:layout_columnWeight="1" />
+    <Button
+        android:text="@string/text_division"
+        android:id="@+id/divisionButton"
+        android:layout_toRightOf="@+id/additionButton"
+        android:drawableLeft="@drawable/ic_division"
+        android:layout_gravity="fill_horizontal"
+        android:layout_columnWeight="1" />
+    <Button
+        android:text="@string/text_Subtraction"
+        android:id="@+id/subtractButton"
+        android:layout_below="@+id/additionButton"
+        android:drawableLeft="@drawable/ic_minus"
+        android:layout_gravity="fill_horizontal"
+        android:layout_columnWeight="1" />
+</GridLayout>

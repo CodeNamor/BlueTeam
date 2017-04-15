@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:id="@+id/menu_fragment"
+        android:name="com.example.menu.MenuFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        tools:layout="@layout/activity_menu" />
+
+    <fragment
+        android:id="@+id/addition_fragment"
+        android:name="com.example.addition.AdditionFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        tools:layout="@layout/activity_addition" />
+
+    <fragment
+        android:id="@+id/multiplication_fragment"
+        android:name="com.example.multiplication.MultiplicationFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        tools:layout="@layout/activity_multiplication" />
+
+    <fragment
+        android:id="@+id/temperature_fragment"
+        android:name="com.example.temperature.TemperatureFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        tools:layout="@layout/activity_temperature" />
+
+    <!-- Division Fragment-->
+    <fragment
+        android:id="@+id/division_fragment"
+        android:name="com.example.division.DivisionFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        tools:layout="@layout/activity_division" />
+
+    <!-- Side navigation drawer UI -->
+    <ListView
+        android:id="@+id/navList"
+        android:layout_width="200dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="#111"/>
+
+</android.support.v4.widget.DrawerLayout>

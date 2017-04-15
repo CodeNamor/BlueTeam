@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <TextView
+        android:id="@+id/textMultView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="97dp"
+        android:text="Multiplication"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="@dimen/abc_action_bar_default_height_material"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/textMultView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textMultView1"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="43dp"
+        android:text="Number One"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        tools:ignore="HardcodedText" />
+
+    <EditText
+        android:id="@+id/txtMultNumber1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textMultView2"
+        android:layout_alignRight="@+id/textMultView1"
+        android:ems="2"
+        android:inputType="number" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textMultView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textMultView2"
+        android:layout_below="@+id/textMultView2"
+        android:layout_marginTop="47dp"
+        android:text="@string/number_two"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btnMultiply"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textMultView3"
+        android:layout_alignRight="@+id/textMultView3"
+        android:layout_below="@+id/textMultView3"
+        android:layout_marginTop="46dp"
+        android:text="@string/multiply" />
+
+    <EditText
+        android:id="@+id/txtMultNumber2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnMultiply"
+        android:layout_alignLeft="@+id/txtMultNumber1"
+        android:ems="2"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/txtMultResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/txtMultNumber2"
+        android:layout_alignTop="@+id/btnMultiply"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>

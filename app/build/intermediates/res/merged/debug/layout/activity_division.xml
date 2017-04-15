@@ -1,0 +1,84 @@
+<!-- Samrat S Adhikari -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <TextView
+        android:id="@+id/textDivView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="97dp"
+        android:text="@string/text_division"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="@dimen/abc_action_bar_default_height_material"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/textDivView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textDivView1"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="43dp"
+        android:text="@string/number_one"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        tools:ignore="HardcodedText" />
+
+    <EditText
+        android:id="@+id/txtDivNumber1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textDivView2"
+        android:layout_alignRight="@+id/textDivView1"
+        android:ems="2"
+        android:inputType="number" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textDivView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textDivView2"
+        android:layout_below="@+id/textDivView2"
+        android:layout_marginTop="47dp"
+        android:text="@string/number_two"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btnDivide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textDivView3"
+        android:layout_alignRight="@+id/textDivView3"
+        android:layout_below="@+id/textDivView3"
+        android:layout_marginTop="46dp"
+        android:text="@string/divide" />
+
+    <EditText
+        android:id="@+id/txtDivNumber2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnDivide"
+        android:layout_alignLeft="@+id/txtDivNumber1"
+        android:ems="2"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/txtDivResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/txtDivNumber2"
+        android:layout_alignTop="@+id/btnDivide"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>

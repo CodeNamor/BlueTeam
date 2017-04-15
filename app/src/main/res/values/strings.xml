@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Blue Team Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">Add</string>
+    <string name="multiply">multiply</string>
+    <string name="divide">Divide</string>
+    <string name="number_one">Number One</string>
+    <string name="number_two">Number Two</string>
+    <string name="text_calculator">Calculator</string>
+    <string name="text_teamName">Blue Team</string>
+    <string name="text_addition">Addition</string>
+    <string name="text_multiplication">Multiplication</string>
+    <string name="text_division">Division</string>
+    <string name="text_convert">Convert</string>
+    <string name="text_FahrenheitToCelsius">F to C</string>
+    <string name="text_CelsiusToFahrenheit">C to F</string>
+    <string name="text_Addition">Addition</string>
+    <string name="text_Subtraction">Subtraction</string>
+    <string name="text_switchText">F to C</string>
+    <string-array name="calculator_array">
+        <item>Menu</item>
+        <item>Addition</item>
+        <item>Division</item>
+        <item>Subtraction</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="text_temperature">Temperature</string>
+    <string name="division_divide_by_zero">The value of Number two can\'t be 0.</string>
+    <string name="division_enter_value">Please enter values for both Number One and Number Two.</string>
+    <string name="addition_enter_value">Please enter values for both Number One and Number Two.</string>
+</resources>

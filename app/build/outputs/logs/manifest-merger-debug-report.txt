@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\derek\.android\build-cache\9773d28a3c33e7e21f6a073bd328b6877c940220\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\derek\.android\build-cache\60d5333b314bbc1797c9872be10b2d97285e27e7\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\derek\.android\build-cache\62101f7f02259e5ea8513012b320b92c09cf4341\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\derek\.android\build-cache\09330a22337cc95ddc1d12ba37dbef06a066d80b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\derek\.android\build-cache\540b597be7fbbc65658704abfb09e627c09bfb7e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\derek\.android\build-cache\5a79477236ae8fd6a9200f9e338aaca30f367656\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\derek\.android\build-cache\1162a9c05118a6ecf40f516679659c1182a19758\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\derek\.android\build-cache\736bab10478f894647f8c0c70bc0980c2f763248\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\derek\.android\build-cache\fe6bd8b9d7bf7efcf71a0fb7eecbb625cf3b9d2f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\derek\.android\build-cache\7f75ef70fc1fe285f02a94d75690f3bf54ac437e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\derek\.android\build-cache\89a30597136d000d66874d93dbf0c7dc6f9a7361\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\derek\.android\build-cache\ebf4e82c447aab443f51a108ff1fc6a6a33c7490\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\derek\.android\build-cache\0f47e2c1aa0c80c7db78c9e75e4d5044f8093ea6\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\derek\.android\build-cache\60d5333b314bbc1797c9872be10b2d97285e27e7\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\derek\.android\build-cache\9773d28a3c33e7e21f6a073bd328b6877c940220\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\derek\.android\build-cache\60d5333b314bbc1797c9872be10b2d97285e27e7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\derek\.android\build-cache\62101f7f02259e5ea8513012b320b92c09cf4341\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\derek\.android\build-cache\09330a22337cc95ddc1d12ba37dbef06a066d80b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\derek\.android\build-cache\540b597be7fbbc65658704abfb09e627c09bfb7e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\derek\.android\build-cache\1162a9c05118a6ecf40f516679659c1182a19758\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\derek\.android\build-cache\736bab10478f894647f8c0c70bc0980c2f763248\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\derek\.android\build-cache\fe6bd8b9d7bf7efcf71a0fb7eecbb625cf3b9d2f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\derek\.android\build-cache\7f75ef70fc1fe285f02a94d75690f3bf54ac437e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\derek\.android\build-cache\89a30597136d000d66874d93dbf0c7dc6f9a7361\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\derek\.android\build-cache\ebf4e82c447aab443f51a108ff1fc6a6a33c7490\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\derek\.android\build-cache\0f47e2c1aa0c80c7db78c9e75e4d5044f8093ea6\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.main.MainActivity
+ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\derek\Desktop\School\CIS 622\BlueTeam\app\src\main\AndroidManifest.xml:22:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\derek\.android\build-cache\60d5333b314bbc1797c9872be10b2d97285e27e7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\derek\.android\build-cache\62101f7f02259e5ea8513012b320b92c09cf4341\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\derek\.android\build-cache\09330a22337cc95ddc1d12ba37dbef06a066d80b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\derek\.android\build-cache\540b597be7fbbc65658704abfb09e627c09bfb7e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\derek\.android\build-cache\5a79477236ae8fd6a9200f9e338aaca30f367656\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\derek\.android\build-cache\1162a9c05118a6ecf40f516679659c1182a19758\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\derek\.android\build-cache\736bab10478f894647f8c0c70bc0980c2f763248\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\derek\.android\build-cache\fe6bd8b9d7bf7efcf71a0fb7eecbb625cf3b9d2f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\derek\.android\build-cache\7f75ef70fc1fe285f02a94d75690f3bf54ac437e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\derek\.android\build-cache\89a30597136d000d66874d93dbf0c7dc6f9a7361\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\derek\.android\build-cache\ebf4e82c447aab443f51a108ff1fc6a6a33c7490\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\derek\.android\build-cache\0f47e2c1aa0c80c7db78c9e75e4d5044f8093ea6\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\derek\.android\build-cache\60d5333b314bbc1797c9872be10b2d97285e27e7\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\derek\.android\build-cache\60d5333b314bbc1797c9872be10b2d97285e27e7\output\AndroidManifest.xml:26:9-47
