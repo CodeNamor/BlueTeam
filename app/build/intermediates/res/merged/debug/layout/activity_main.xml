@@ -23,6 +23,14 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         tools:layout="@layout/activity_addition" />
+    <fragment
+        android:id="@+id/subtraction_fragment"
+        android:name="com.example.subtraction.SubtractionFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        tools:layout="@layout/activity_subtraction" />
 
     <fragment
         android:id="@+id/multiplication_fragment"

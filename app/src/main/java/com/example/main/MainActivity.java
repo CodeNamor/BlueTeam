@@ -116,6 +116,13 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button subtractionButton = (Button) findViewById(R.id.subtractButton);
+        additionButton.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                selectItem(((TextView)v).getText().toString());
+            }
+        });
+
         Button divisionButton = (Button) findViewById(R.id.divisionButton);
         divisionButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
@@ -208,6 +215,7 @@ public class MainActivity extends AppCompatActivity {
         ft.hide(fragmentManager.findFragmentById(R.id.addition_fragment));
         ft.hide(fragmentManager.findFragmentById(R.id.division_fragment));
         ft.hide(fragmentManager.findFragmentById(R.id.multiplication_fragment));
+        ft.hide(fragmentManager.findFragmentById(R.id.subtraction_fragment));
         ft.hide(fragmentManager.findFragmentById(R.id.temperature_fragment));
         ft.hide(fragmentManager.findFragmentById(R.id.menu_fragment));
         switch (selectedText){
@@ -218,7 +226,7 @@ public class MainActivity extends AppCompatActivity {
                 ft.show(fragmentManager.findFragmentById(R.id.division_fragment));
                 break;
             case "Subtraction":
-                //ft.show(fragmentManager.findFragmentById(R.id.subtraction_fragment));
+                ft.show(fragmentManager.findFragmentById(R.id.subtraction_fragment));
                 break;
             case "Menu":
                 ft.show(fragmentManager.findFragmentById(R.id.menu_fragment));

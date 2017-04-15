@@ -705,6 +705,7 @@
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sub">Subtract</string>
+    <string name="subtraction_enter_value">Please enter values for both Number One and Number Two</string>
     <string name="text_Addition">Addition</string>
     <string name="text_CelsiusToFahrenheit">C to F</string>
     <string name="text_FahrenheitToCelsius">F to C</string>

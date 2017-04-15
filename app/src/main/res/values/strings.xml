@@ -34,4 +34,5 @@
     <string name="division_divide_by_zero">The value of Number two can\'t be 0.</string>
     <string name="division_enter_value">Please enter values for both Number One and Number Two.</string>
     <string name="addition_enter_value">Please enter values for both Number One and Number Two.</string>
+    <string name="subtraction_enter_value">Please enter values for both Number One and Number Two</string>
 </resources>

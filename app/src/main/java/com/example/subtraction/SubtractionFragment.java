@@ -8,7 +8,9 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import com.example.addition.AdditionFragment;
 import com.example.main.R;
 
 import java.util.Locale;
@@ -40,10 +42,22 @@ public class SubtractionFragment extends Fragment {
             btnSubtract.setOnClickListener(new View.OnClickListener() {
 
                 public void onClick(View v) {
-                    num1 = Double.parseDouble(firstNumber.getText().toString());
-                    num2 = Double.parseDouble(secondNumber.getText().toString());
-                    dif = num1 - num2;
-                    addResult.setText(String.format(Locale.ENGLISH, "(%f)", dif) );
+                    /**
+                     * Modified by F. Derek Roman on 4/15/2017.
+                     */
+
+                    String text1 = firstNumber.getText().toString();
+                    String text2 = secondNumber.getText().toString();
+
+                    // Check to see inputted numbers are not null
+                    if(text1.matches("")|| text2.matches("")){
+                        Toast.makeText(SubtractionFragment.this.getActivity(), R.string.subtraction_enter_value, Toast.LENGTH_SHORT).show();
+                    } else {
+                        num1 = Double.parseDouble(text1);
+                        num2 = Double.parseDouble(text2);
+                        dif = num1 - num2;
+                        addResult.setText(String.format(Locale.ENGLISH, "(%f)", dif));
+                    }
                 }
             });
             return view;
