@@ -225,6 +225,7 @@ public class MainActivity extends AppCompatActivity {
             case "Division":
                 ft.show(fragmentManager.findFragmentById(R.id.division_fragment));
                 break;
+            
             case "Subtraction":
                 ft.show(fragmentManager.findFragmentById(R.id.subtraction_fragment));
                 break;

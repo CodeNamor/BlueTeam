@@ -14,7 +14,6 @@ import com.example.addition.AdditionFragment;
 import com.example.main.R;
 
 import java.util.Locale;
-
 /**
  * Created by derek on 4/15/2017.
  */
